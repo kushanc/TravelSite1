@@ -1861,6 +1861,8 @@
 	}
 
 /* Logo */
+	#logo1{
+		}
 
 	#logo {
 		display: inline-block;
@@ -2178,6 +2180,10 @@
 		/* Logo */
 
 			#logo span {
+				display: block;
+				margin: 0;
+			}
+			#logo1 span {
 				display: block;
 				margin: 0;
 			}
